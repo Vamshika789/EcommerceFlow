@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Data files (too large for GitHub)
+data/*.csv
+data/*.parquet
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
