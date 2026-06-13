@@ -12,3 +12,4 @@ data/*.parquet
 
 # Mac
 .DS_Store
+credentials.txt
